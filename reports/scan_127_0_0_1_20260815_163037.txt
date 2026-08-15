@@ -1,0 +1,26 @@
+============================================================
+                 NETRECON SCAN REPORT
+============================================================
+
+Scan Date     : 2026-08-15 16:30:37
+Target        : localhost
+IP Address    : 127.0.0.1
+Open Ports    : 4
+OS Guess      : Windows
+OS Confidence : High
+Observed TTL  : 128
+
+------------------------------------------------------------
+OPEN PORTS AND SERVICES
+------------------------------------------------------------
+
+PORT        SERVICE           VERSION
+------------------------------------------------------------
+135/tcp     EPMAP             Unknown
+445/tcp     SMB               Unknown
+902/tcp     UNKNOWN           220 VMware Authentication Daemon Version 1.10: SSL Required, ServerDaemonProtoco
+912/tcp     UNKNOWN           220 VMware Authentication Daemon Version 1.0, ServerDaemonProtocol:SOAP, MKSDisp
+
+============================================================
+Scan completed by NetRecon.
+============================================================
